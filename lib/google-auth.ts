@@ -87,7 +87,7 @@ export class GoogleAuth {
     const userData = await response.json();
     
     // Debug: Log the raw response from Google
-    // console.log('Raw Google userinfo response:', userData);
+    console.log('Raw Google userinfo response:', userData);
     
     // Google API might return 'picture' field, make sure we handle it correctly
     return {

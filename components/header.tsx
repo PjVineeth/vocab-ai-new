@@ -192,7 +192,7 @@ export default function Header() {
                     </li>
                     <li>
                       <a 
-                        href="https://vocab-assist.onrender.com" 
+                        href="https://vani-ai.onrender.com" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
@@ -334,7 +334,7 @@ export default function Header() {
                     </li>
                     <li>
                       <a 
-                        href="https://vocab-assist.onrender.com" 
+                        href="https://vani-ai.onrender.com" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block px-4 py-2 text-sm text-gray-600 hover:text-blue-600"
