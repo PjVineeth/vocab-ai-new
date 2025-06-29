@@ -176,7 +176,7 @@ export default function Header() {
                   <ul className="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50 border">
                     <li>
                       <a 
-                        href="http://27.111.72.61:9001/proxy_transcribe" 
+                        href="http://27.111.72.61:9002" 
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                       >
                         SARATHI-AI
@@ -187,7 +187,7 @@ export default function Header() {
                         href="#chitra-ai" 
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                       >
-                        CHITRA-AI
+                        CHITRA-AIq
                       </a>
                     </li>
                     <li>
@@ -324,7 +324,7 @@ export default function Header() {
                   <ul className="pl-6 bg-gray-50">
                     <li>
                       <a 
-                        href="http://27.111.72.61:9001/proxy_transcribe" 
+                        href="http://27.111.72.61:9002" 
                         className="block px-4 py-2 text-sm text-gray-600 hover:text-blue-600"
                       >
                         SARATHI-AI
