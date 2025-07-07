@@ -88,7 +88,7 @@ The platform integrates three AI services:
 
 1. **SARATHI-AI** - Accessible at `http://27.111.72.61:9002`
 2. **CHITRA-AI** - Internal service (placeholder link)
-3. **Vani AI** - External service at `https://vani-ai.onrender.com`
+3. **Vani AI** - External service at `https://vad-dg6d.onrender.com`
 
 ### Responsive Design
 - Mobile-first approach using Tailwind CSS

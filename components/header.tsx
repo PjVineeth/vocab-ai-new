@@ -192,12 +192,12 @@ export default function Header() {
                     </li>
                     <li>
                       <a 
-                        href="https://vani-ai.onrender.com" 
+                        href="https://vad-dg6d.onrender.com" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                       >
-                        Vani AI
+                        Vaani AI
                       </a>
                     </li>
                   </ul>
@@ -340,7 +340,7 @@ export default function Header() {
                     </li>
                     <li>
                       <a 
-                        href="https://vani-ai.onrender.com" 
+                        href="https://vad-dg6d.onrender.com" 
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block px-4 py-2 text-sm text-gray-600 hover:text-blue-600"
